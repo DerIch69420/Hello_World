@@ -1,9 +1,8 @@
 
-MESSAGE: str = "Hello, World!"
-
-def main() -> None:
+def main(msg: str) -> None:
     """Prints the greeting message."""
-    print(MESSAGE)
+    print(msg)
 
 if __name__ == "__main__":
-    main()
+    message: str = "Hello, World!"
+    main(message)
