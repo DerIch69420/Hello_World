@@ -1,6 +1,8 @@
 # Assembly
 /Assembly/x86/32bit/hello
 /Assembly/x86/32bit/hello.o
+/Assembly/x86/64bit/hello
+/Assembly/x86/64bit/hello.o
 
 # C 
 /C/hello
